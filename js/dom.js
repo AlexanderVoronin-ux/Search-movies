@@ -126,7 +126,7 @@ createElement({
       class: 'search__input',
       id: 'search',
       type: 'text',
-      placeholder: 'Введите запрос'
+      placeholder: 'Введите запрос на английском языке'
   },
     container: searchBox
   });
